@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\bin\Debug\net8.0\AlunoAprovacao.exe
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\bin\Debug\net8.0\AlunoAprovacao.deps.json
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\bin\Debug\net8.0\AlunoAprovacao.runtimeconfig.json
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\bin\Debug\net8.0\AlunoAprovacao.dll
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\bin\Debug\net8.0\AlunoAprovacao.pdb
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\AlunoAprovacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\AlunoAprovacao.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\AlunoAprovacao.AssemblyInfo.cs
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\AlunoAprovacao.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\AlunoAprovacao.dll
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\refint\AlunoAprovacao.dll
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\AlunoAprovacao.pdb
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\AlunoAprovacao.genruntimeconfig.cache
+C:\Users\gabri\Documents\projects\csharp_tests\logica_programacao\AlunoAprovacao\obj\Debug\net8.0\ref\AlunoAprovacao.dll
